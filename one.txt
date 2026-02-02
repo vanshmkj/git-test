@@ -1,2 +1,4 @@
 this is first file
 add another text to commit
+add more text 
+i just try to write without seeing in a keyboard
